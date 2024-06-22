@@ -1,4 +1,4 @@
-# tests/html_tests.py
+# tests/test_html.py
 
 import subprocess
 import pytest
