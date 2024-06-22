@@ -64,3 +64,7 @@ Markdown to HTML Converter is a command-line tool that takes a Markdown file and
 
 **Revert "Introduce error in ANSI test":**
 [Revert commit link](https://github.com/Yarule-study/LAB_2/commit/0a513181d72eb9756a02795a430a894b9259ae61)
+
+## Conclusion
+
+**Unit tests are really useful. They help to quickly identify and correct errors in the code, which saves time and ensures the stability of the program during its development.​**
