@@ -4,3 +4,8 @@ __pycache__/
 # rest
 /markdown.txt
 /markdown.md
+# Ignore temporary test files and directories
+/tmp/
+/temp/
+*.tmp
+*.temp
