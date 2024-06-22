@@ -1,0 +1,6 @@
+# python cache
+__pycache__/
+*.py[cod]
+# rest
+/markdown.txt
+/markdown.md
