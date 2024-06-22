@@ -1,6 +1,13 @@
 # python cache
 __pycache__/
-*.py[cod]
+/tests/*.pyc
+/tests/*.pyo
+/tests/*.pyo
 # rest
 /markdown.txt
 /markdown.md
+# pytest
+/tests/__pycache__/
+/tests/*.pyc
+/tests/*.pyo
+/tests/*.pyo
